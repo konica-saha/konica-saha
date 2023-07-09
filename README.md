@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @konica-saha
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning framework
+- 👀 I’m interested in SQA Engineer
+- 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
