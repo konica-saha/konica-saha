@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @konica-saha
+# 👋 Hi, I’m @konica-saha
 - 👀 I’m interested in SQA Engineer
 - 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on ...
