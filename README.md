@@ -1,10 +1,5 @@
-# 👋 Hi, I’m @konica-saha
-- 👀 I’m interested in SQA Engineer
-- 🌱 I’m currently learning Automation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hey,this is konica saha.
 
-<!---
-konica-saha/konica-saha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My journey as a software Quality Assurance Engineer began with a strong foundation in manual testing and API testing , Database testing, SQL Query .I also posses a strong understanding of Software development life cycle, Software testing life cycle, Bug Report, Bug life cycle and test report etc. I have hands on experiences on that.I am well-versed in identifying bugs, documenting test cases, and collaborating with cross-functional teams to ensure the delivery of high-quality software products.
+
+Currently I am learning automation testing.
