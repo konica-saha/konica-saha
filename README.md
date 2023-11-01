@@ -5,7 +5,7 @@ My journey as a software Quality Assurance Engineer began with a strong foundati
 Currently I am learning automation testing.
 
 
-<h3 align="left">Connect </h3>
+<h3 align="left">Where to find me </h3>
 <p align="left">
 <a href="https://linkedin.com/in/konica-saha24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konica-saha24" height="30" width="40" /></a>
 <a href="https://fb.com/konica.saha24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="konica.saha24" height="30" width="40" /></a>
