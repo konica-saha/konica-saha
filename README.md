@@ -1,8 +1,7 @@
 # 👋 Hey,this is konica saha.
 
-My journey as a software Quality Assurance Engineer began with a strong foundation in manual testing and API testing , Database testing, SQL Query .I also posses a strong understanding of Software development life cycle, Software testing life cycle, Bug Report, Bug life cycle and test report etc. I have hands on experiences on that.I am well-versed in identifying bugs, documenting test cases, and collaborating with cross-functional teams to ensure the delivery of high-quality software products.
+I am a passionate web developer. My journey as a web developer began with a strong foundation in HTML, CSS, and JavaScript, which allowed me to build solid websites. Over time, I expanded my knowledge and dived into frameworks like Laravel enabling me to develop dynamic and interactive web applications. My attention to detail and dedication to crafting clean, well-structured code are central to my development process.I am aso learning manual testing and API testing , Database testing, SQL Query .I also posses a strong understanding of Software development life cycle, Software testing life cycle, Bug Report, Bug life cycle and test report etc. 
 
-Currently I am learning automation testing.
 
 
 
